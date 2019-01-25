@@ -1,0 +1,14 @@
+
+Write a working program code that will take the test_results.json file as an input and provide:
+
+1) For each test suite:
+Test suite name
+Print out the total number of tests that passed and their details
+Print out the total number of tests that failed and their details
+Print out the total number of test that are blocked
+Print out the total number of test that took more than 10 seconds to execute
+
+2) Proper treatment for common error conditions
+3) All the detail lists need to be printed in ascending order
+4) Speed is first priority, memory is secondary
+5) Java or Python
